@@ -60,6 +60,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Val-pyt23/Val-pyt23/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Val-pyt23/Val-pyt23/output/pacman.svg" alt="Pacman animation" />
 
 ###
 
